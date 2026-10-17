@@ -17,6 +17,9 @@ Aplico de forma prática:
 * Fundamentos e conhecimentos básicos de cloud e AWS
 
 
+Meus principais projetos, atualizados e documentados estão na sessão de fixados.
+
+
 ## Ferramentas:
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
