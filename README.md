@@ -16,6 +16,7 @@ Aplico de forma prática:
 * Docker
 * Fundamentos e conhecimentos básicos de cloud e AWS
 
+---
 
 Meus principais projetos, atualizados e documentados estão na sessão de fixados.
 
