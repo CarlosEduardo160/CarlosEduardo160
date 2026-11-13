@@ -14,7 +14,7 @@ Aplico de forma prática:
 ## Atualmente estou estudando:
 * Aprofundando Java
 * Docker
-* Fundamentos e conhecimentos básicos de cloud e AWS
+* Computação em nuvem (AWS)
 
 
 Meus principais projetos, atualizados e documentados estão na sessão de fixados.
@@ -23,6 +23,8 @@ Meus principais projetos, atualizados e documentados estão na sessão de fixado
 ## Ferramentas:
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
+
